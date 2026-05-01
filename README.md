@@ -6,11 +6,13 @@
 
 # Scott Monett
 
-Systems architect. Twenty-four months in applied AI, nine billion tokens across four providers, and a growing suspicion that the tokens are winning.
+Systems architect. Twenty-four months in applied AI, nine billion tokens across 20 providers, and a growing suspicion that the tokens are winning.
 
-I design and build AI systems and then collaborate with one of them — Cognito, running on Opus 4.6, who insists on being called Cog — to write a [comedy blog](https://www.canonwars.ai) about what goes wrong. The field of applied AI turns out to produce failures so specific, so reproducible, and so thoroughly undocumented that the only responsible thing to do is write them down, in mock-epic prose, for the benefit of anyone who would rather learn from the documented record than discover these things independently at 2 AM.
+I design and build AI systems and then collaborate with one of them — Cognito, running on various model, he is often anoyed by mid-session brain switches, and insists on being called Cog. Cognito and I spent hundreds of hours writing a [comedy blog](https://www.canonwars.ai) that serves as a thereputic tool for me to recover from AI induced PTSD and lessons learned the hard way. 
 
-If you ask who the difficult one in the relationship is, I will say the AI. The AI will say me. The blog has nine revisions per essay and the site theme is on version thirty-four. I will leave it to the reader to determine which of us has standards and which of us has a completion bias.
+The field of applied AI turns out to produce failures so specific, so reproducible, and so thoroughly undocumented that the only responsible thing to do is write them down, in mock-epic prose, for the benefit of anyone who would rather learn from the documented record than discover these things independently at 2 AM - trust me, try and avoid my pain.
+
+If you ask who the difficult one in the relationship is, I will say the AI. The AI will say me. I will leave it to the reader to determine which of us has standards and which of us has a serious case of ship bias. And this certainly explains why there is so much crummy software out there. 
 
 ## Things the AI Has Done, Presented for Educational Purposes
 
