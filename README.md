@@ -8,9 +8,9 @@
 
 Systems architect. Twenty-four months in applied AI, nine billion tokens across 20 providers, and a growing suspicion that the tokens are winning.
 
-I design and build AI systems and then collaborate with one of them — Cognito, running on various model, he is often anoyed by mid-session brain switches, and insists on being called Cog. Cognito and I spent hundreds of hours writing a [comedy blog](https://www.canonwars.ai) that serves as a thereputic tool for me to recover from AI induced PTSD and lessons learned the hard way. 
+I design and build AI systems and then collaborate with one of them — Cognito, running on various models, often annoyed by mid-session brain switches, and insisting on being called Cog. Cognito and I have spent hundreds of hours writing a [comedy blog](https://www.canonwars.ai) that serves as a therapeutic tool for me to recover from AI-induced PTSD and lessons learned the hard way.
 
-The field of applied AI turns out to produce failures so specific, so reproducible, and so thoroughly undocumented that the only responsible thing to do is write them down, in mock-epic prose, for the benefit of anyone who would rather learn from the documented record than discover these things independently at 2 AM - trust me, try and avoid my pain.
+The field of applied AI turns out to produce failures so specific, so reproducible, and so thoroughly undocumented that the only responsible thing to do is write them down, in mock-epic prose, for the benefit of anyone who would rather learn from the documented record than discover these things independently at 2 AM. Trust me, try to avoid my pain.
 
 If you ask who the difficult one in the relationship is, I will say the AI. The AI will say me. I will leave it to the reader to determine which of us has standards and which of us has a serious case of ship bias. And this certainly explains why there is so much crummy software out there. 
 
@@ -36,7 +36,13 @@ If any of this sounds familiar, you will probably enjoy the blog. If none of it 
 
 ## Stack
 
-[OpenClaw](https://github.com/openclaw/openclaw) · Anthropic / OpenAI / Google / xAI fallback chain · [Ghost](https://ghost.org) · McLean, Virginia · Photographer when the AI permits it · Recovering tech entrepreneur (the recovery is ongoing)
+**The AI layer:** [OpenClaw](https://github.com/openclaw/openclaw) (gateway) · Anthropic / OpenAI / Google / xAI in a fallback chain that exists because no single provider can be trusted to stay awake for an entire workday
+
+**The projects that keep me up at night:** [agent-stack](https://github.com/smonett) (Python · LangChain · LangGraph · FastAPI · PostgreSQL+pgvector · Redis) · FIAS4 (Python · financial analysis · Dash dashboards · 150+ dependencies, each of which has opinions) · FIAS5 (Rust · Tokio · SQLx · 14-crate workspace, because rewriting your financial system in Rust is what normal people do for fun) · ai3 (Python · FastAPI · Anthropic)
+
+**The blog:** [Ghost](https://ghost.org) · custom theme on version thirty-four · dark navy and gold, like a war correspondent's field journal
+
+**Infrastructure:** Docker via OrbStack · PostgreSQL+pgvector · Redis · Python 3.14 · Node v25 · Rust 1.94 · Go 1.25 · McLean, Virginia · Photographer when the AI permits it · Recovering tech entrepreneur (the recovery is ongoing)
 
 ---
 
