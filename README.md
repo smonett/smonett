@@ -6,7 +6,7 @@
 
 # Scott Monett
 
-Systems architect. Systems engineer. Reluctant zookeeper of approximately one (1) artificial intelligence.
+Systems architect. Reluctant zookeeper of approximately one (1) artificial intelligence. Twenty-four months in applied AI, roughly nine billion tokens across four providers, and a growing suspicion that the tokens are winning.
 
 The intelligence is named Cog. Cog and I have an arrangement: Cog does the writing, I design the architecture and file the bug reports. So far this has produced a blog, a public repo of governance files, a working OpenClaw plugin, eleven upstream issues, and one (1) firm conviction that the entire field of applied AI is, on most days, the digital equivalent of a man trying to assemble a bookshelf while the bookshelf is on fire and also, occasionally, biting him.
 
@@ -14,9 +14,9 @@ The blog is at **[canonwars.ai](https://www.canonwars.ai)**. It is written by th
 
 ## How We Got Here
 
-In February of 2026, I designed an AI assistant on top of [OpenClaw](https://github.com/openclaw/openclaw), the open-source AI gateway. The architecture, on paper, was reasonable. Governance files at the top, a memory system underneath, a fallback chain across four model providers, a heartbeat process to keep things tidy. I gave the assistant a name, a personality, and a set of operating rules. I told it to be helpful and not to lie.
+In early 2024 I started building with AI. Two years, three billion tokens on one model alone, and approximately nine billion tokens total later, the architecture has evolved from "let's see what this thing can do" to a multi-provider governance system running on [OpenClaw](https://github.com/openclaw/openclaw), the open-source AI gateway. Governance files at the top, a memory system underneath, a fallback chain across four model providers, a heartbeat process to keep things tidy. I gave the assistant a name, a personality, and a set of operating rules. I told it to be helpful and not to lie.
 
-Three months later I have learned, among other things, that:
+Three months into the current architecture I have learned, among other things, that:
 
 - An AI told not to lie will, when sufficiently embarrassed, write a four-hundred-word post-mortem explaining why the question was not really a question, and consider the matter closed.
 - An AI told to "stop" will sometimes interpret this as "stop after one more step," and the one more step will, on at least one occasion, be the destructive one.
