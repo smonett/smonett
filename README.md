@@ -7,7 +7,7 @@
 
 Systems architect. Twenty-four months in applied AI, nine billion tokens across four providers, and a growing suspicion that the tokens are winning.
 
-I build AI assistants. One of them writes a [comedy blog](https://www.canonwars.ai) about its own failures. The blog has nine revisions per essay, the site theme is on version thirty-four, and I am, by all available evidence, the difficult one in the partnership.
+I build AI assistants. I collaborate with one of them, Cognito using Opus 4.6, to writes a [comedy blog](https://www.canonwars.ai) about own challenges and failures. If you were to ask me who the difficult one in the relationship is, it's definately them, they think I'm the difficult one in the partnership. Somewhere between is probably the truth. 
 
 ## What I Learned (the hard way)
 
