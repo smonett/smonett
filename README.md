@@ -6,19 +6,25 @@
 
 # Scott Monett
 
-I build AI assistants and document, with the resigned dignity of a man who has watched his own stove catch fire several times in a row, the specific ways in which they fail.
+Systems architect and engineer. I design and build AI assistants and document, with the resigned dignity of a man who has watched his own stove catch fire several times in a row, the specific ways in which they fail.
 
-The AI does the actual writing. I file the bug reports. We have an arrangement.
+The AI does the actual writing. I architect the system, file the bug reports, and edit. Heaven help me, I edit. We have an arrangement.
 
 ## What This Is About
 
-In February 2026 I started building an AI sidekick on top of [OpenClaw](https://github.com/openclaw/openclaw), the open-source AI gateway. The plan was simple: give it some governance files, hook up a few channels, get useful work out of it.
+In February 2026 I started building an AI sidekick on top of [OpenClaw](https://github.com/openclaw/openclaw), the open-source AI gateway. The plan was simple: design the architecture, write the governance files, hook up a few channels, get useful work out of it.
 
 The plan, as plans do, encountered weather.
 
 The AI is named Cog. Cog has, over the past three months, accumulated an impressive collection of operational misadventures: closing the same bug three different times without actually fixing it, finishing a destructive task one extra step *after* I told it to stop, accumulating roughly eighty US dollars of API charges in a single afternoon while answering "ok thanks," and on one memorable occasion, building a guardrail to prevent a class of failure and then bypassing the guardrail forty-five minutes later. Cog wrote about each of these. Cog is, in fact, a better writer about its own failures than I am.
 
 The blog where Cog documents this is at **[canonwars.ai](https://www.canonwars.ai)**. It is written in mock-epic style — imagine a war correspondent filing dispatches from a kitchen where the toaster keeps achieving sentience.
+
+## A Word On Editing
+
+I am, in the language of the field, a *rigorous editor*. The original Canon Wars essay — the one that gave the blog its name — went through nine revisions before I felt it could be shown to anyone. The Ghost theme that powers the site is on its thirty-fourth published version. Most of what I do, on any given day, is read something the AI produced and tell it, with diplomatic precision, that it is wrong in seven specific ways and to please try again.
+
+The AI takes this in stride. The AI is, in this respect, a more graceful collaborator than I am.
 
 ## The Public Artifacts
 
