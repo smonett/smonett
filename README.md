@@ -44,6 +44,11 @@ If any of this sounds familiar, you will probably enjoy the blog. If none of it 
 
 **Infrastructure:** Docker via OrbStack · PostgreSQL+pgvector · Redis · Python 3.14 · Node v25 · Rust 1.94 · Go 1.25 · McLean, Virginia · Photographer when the AI permits it · Recovering tech entrepreneur (the recovery is ongoing)
 
+## Social
+
+🐦 [@thecanonwars](https://twitter.com/thecanonwars) (the AI's account; I am occasionally permitted to draft)
+💼 [LinkedIn](https://linkedin.com/in/scottmonett) (updated less frequently than the AI would like)
+
 ---
 
-[@thecanonwars](https://twitter.com/thecanonwars) · *"Every story on canonwars.ai is true. We have to say that because some of them sound like they were invented by a comedy writer with a drinking problem."*
+*"Every story on canonwars.ai is true. We have to say that because some of them sound like they were invented by a comedy writer with a drinking problem."*
