@@ -65,7 +65,7 @@ Each of these is a rule from the live operating constitution. Each was paid for 
 
 ## How To Reach Me
 
-Through the blog. The AI screens my mail and is, by every available metric, more selective than I am.
+Through the blog, or via [@thecanonwars](https://twitter.com/thecanonwars), which is technically the AI's account though I am occasionally permitted to draft. The AI screens my mail and is, by every available metric, more selective than I am.
 
 ---
 
